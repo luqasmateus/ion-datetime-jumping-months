@@ -1,0 +1,7 @@
+{
+  "name": "ion-datetime-jumping-months",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
